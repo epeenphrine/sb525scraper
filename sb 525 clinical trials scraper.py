@@ -5,8 +5,8 @@ import codecs
 import re
 import csv
 
-##url = "H:\google drive folder\python\projects\web scraper\sites\Dose-Ranging Study of Recombinant AAV2_6 Human Factor 8 Gene Therapy SB-525 in Subjects With Severe Hemophilia A - Full Text View - ClinicalTrials.gov.html"
-##url = "C:\\Users\\dongh\\Documents\\Google Drive\\python\\projects\\web scraper\\sites\\Dose-Ranging Study of Recombinant AAV2_6 Human Factor 8 Gene Therapy SB-525 in Subjects With Severe Hemophilia A - Full Text View - ClinicalTrials.gov.html"
+
+##url = "htmlfilename"
 ##f=codecs.open(url, 'r', 'utf-8')
 ##soup = bs.BeautifulSoup(f, 'lxml')
 ##print (soup)
