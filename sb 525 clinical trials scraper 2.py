@@ -6,22 +6,13 @@ import re
 import csv
 
 ############# offfline testing
-##for desktop
-##url = "H:\google drive folder\python\projects\web scraper\sites\Dose-Ranging Study of Recombinant AAV2_6 Human Factor 8 Gene Therapy SB-525 in Subjects With Severe Hemophilia A - Full Text View - ClinicalTrials.gov.html"
-## for laptop
-##url = "C:\\Users\\dongh\\Documents\\Google Drive\\python\\projects\\web scraper\\sites\\Dose-Ranging Study of Recombinant AAV2_6 Human Factor 8 Gene Therapy SB-525 in Subjects With Severe Hemophilia A - Full Text View - ClinicalTrials.gov.html"
+##url = "htmlfilenamehere"
 ##
 ##f=codecs.open(url, 'r', 'utf-8')
 ##soup = bs.BeautifulSoup(f, 'lxml')
 ##print (soup)
 ##print("****************************************************************************************")
 
-###################### online
-### web request
-##url = "https://clinicaltrials.gov/ct2/show/NCT03061201"
-##req = urllib.request.Request(url, headers={'User-Agent' : "Magic Browser"})
-##sauce = urllib.request.urlopen(req).read()
-##soup = bs.BeautifulSoup(sauce, 'lxml')
 
 
 
